@@ -1,0 +1,23 @@
+{
+  "news": [
+    {
+      "id": 1,
+      "title": "Title 1",
+      "content": "content 1",
+      "categoryNewsId": 1,
+      "listComments": []
+    },
+    {
+      "id": 2,
+      "title": "Title 2",
+      "content": "content 2",
+      "categoryNewsId": 2,
+      "listComments": [
+        {
+          "id": 1,
+          "comment": "comment 1"
+        }
+      ]
+    }
+  ]
+}

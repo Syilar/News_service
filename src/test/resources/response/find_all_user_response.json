@@ -1,0 +1,26 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Name 1",
+      "surname": "Surname 1",
+      "email": "1@email.com",
+      "listNews": []
+    },
+    {
+      "id": 2,
+      "name": "Name 2",
+      "surname": "Surname 2",
+      "email": "2@email.com",
+      "listNews": [
+        {
+          "id": 1,
+          "title": "Title 1",
+          "content": "content 1",
+          "categoryNewsId": 1,
+          "listComments": []
+        }
+      ]
+    }
+  ]
+}
